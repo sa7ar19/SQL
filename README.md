@@ -30,9 +30,9 @@ check input field → ‘
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Table_schema ⇒ ودا اللى فيه كل الداتا بيزس
+Table_schema ⇒ whitch have all data bases
 
-Table_name ⇒ ودا فيه كل التيبل نيم اللى ف الداتا بيزس
+Table_name ⇒ whitch have all tables name 
 
 select table name from informayion_schema.tables
 
