@@ -11,7 +11,7 @@
 
 ---
 
-### Enum database
+### Enumerating the database
 
 check input field → ‘ 
 
